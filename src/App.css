@@ -12,6 +12,23 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.photo {
+  width: 20%;
+}
+
+.Question {
+  font-weight: bold;
+}
+
+input:focus {
+  outline: none !important;
+  box-shadow: none;
+}
+
+textarea:focus {
+  outline: none !important;
+  box-shadow: none;
+}
 
 .App-header {
   background-color: #282c34;
